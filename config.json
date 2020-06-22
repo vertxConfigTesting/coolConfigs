@@ -9,11 +9,6 @@
       "name": "bob",
       "text": "Hello world my name is bob",
       "rateMs": 5000
-    },
-    "ce91de98-e331-4a0d-b39f-ecbc62de0b47": {
-      "name": "steve",
-      "text": "Hello world my name is steve",
-      "rateMs": 5000
     }
   }
 }
