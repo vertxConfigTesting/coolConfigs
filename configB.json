@@ -2,7 +2,7 @@
   "shop": {
     "The Convenience store": {
       "itemToBuy": "groceries",
-      "cost":100
+      "cost":100,
       "text": "Thanks, have A great day"
     },
     "The pharmacy":{
