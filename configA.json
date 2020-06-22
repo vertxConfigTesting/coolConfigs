@@ -1,14 +1,14 @@
 {
-  "nodes": {
-    "dd27587d-dbe6-4210-951a-076c10165407": {
-      "name": "jim",
-      "text": "sup world my name is Jim",
-      "rateMs": 5000
+  "shop": {
+    "surf's up": {
+      "itemToBuy": "DHD Sweet Spot surf board",
+      "cost":850
+      "text": "Have a sick day dude"
     },
-    "b7ef7c62-0e4c-4030-bc67-3952f3aa692a": {
-      "name": "bob",
-      "text": "Hello world my name is bob",
-      "rateMs": 5000
+    "computers r us": {
+      "itemToBuy": "GeForce RTX 2080",
+      "cost":1400
+      "text": "Hello world my name is bob"
     }
   }
 }
