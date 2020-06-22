@@ -1,0 +1,19 @@
+{
+  "nodes": {
+    "dd27587d-dbe6-4210-951a-076c10165407": {
+      "name": "jim",
+      "text": "Hello world my name is Jim",
+      "rateMs": 5000
+    },
+    "b7ef7c62-0e4c-4030-bc67-3952f3aa692a": {
+      "name": "bob",
+      "text": "Hello world my name is bob",
+      "rateMs": 5000
+    },
+    "ce91de98-e331-4a0d-b39f-ecbc62de0b47": {
+      "name": "steve",
+      "text": "Hello world my name is steve",
+      "rateMs": 5000
+    }
+  }
+}
