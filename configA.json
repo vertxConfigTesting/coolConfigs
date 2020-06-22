@@ -2,12 +2,12 @@
   "shop": {
     "surf's up": {
       "itemToBuy": "DHD Sweet Spot surf board",
-      "cost":850
+      "cost":850,
       "text": "Have a good one mate"
     },
     "computers r us": {
       "itemToBuy": "GeForce RTX 2080",
-      "cost":1400
+      "cost":1400,
       "text": "Enjoy ! have a good day"
     }
   }
