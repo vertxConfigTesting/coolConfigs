@@ -1,9 +1,14 @@
 {
-  "nodes": {
-    "ce91de98-e331-4a0d-b39f-ecbc62de0b47": {
-      "name": "steve",
-      "text": "Hello world my name is steve",
-      "rateMs": 5000
+  "shop": {
+    "The Convenience store": {
+      "itemToBuy": "groceries",
+      "cost":100
+      "text": "Thanks, have A great day"
+    },
+    "The pharmacy":{
+      "itemToBuy":"cold and flu tablets",
+      "cost":13,
+      "text":"hope you feel better soon"
     }
   }
 }
